@@ -14,7 +14,7 @@
 3.data preprocessing(check whether any missing values,normalization and some other techniques to get better accuracy)
 4.here we filled with missing values in "total_bedrooms" using mean function
 5.we converted the "ocean_proximity"(object) to numbers
-6.using the linear regression algorithm for the cleaned data
+6.using the multi linear regression algorithm for the cleaned data
 7.using train test split function we split the data into train and test data 
 8.evaluating using test data(i.e splitted from original data)
 9.by using score function we can find the accuracy
